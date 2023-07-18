@@ -1,0 +1,26 @@
+h1
+{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+p
+{
+    font-size: 35px;
+    text-align: center;
+}
+
+button
+{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.center
+{
+    background-color: tomato;
+    text-align: center;
+}
